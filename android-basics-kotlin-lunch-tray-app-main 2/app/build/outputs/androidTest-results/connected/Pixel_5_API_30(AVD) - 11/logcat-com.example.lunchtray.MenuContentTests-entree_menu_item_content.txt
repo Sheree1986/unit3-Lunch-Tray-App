@@ -1,0 +1,24 @@
+03-29 00:18:49.831  3840  3860 I TestRunner: started: entree_menu_item_content(com.example.lunchtray.MenuContentTests)
+03-29 00:18:49.883  3840  3860 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-29 00:18:49.912   528   552 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.963   528  3127 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-29 00:18:49.983   401   401 I perfetto: ing_service_impl.cc:758 Configured tracing session 40, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:2, uid:1071 session name: ""

@@ -1,0 +1,93 @@
+# 2022-03-29T04:18:50.863Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 22
+}
+test_status: ABORTED
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "side_menu_item_content"
+    start_time {
+      seconds: 1648527526
+      nanos: 509000000
+    }
+    end_time {
+      seconds: 1648527528
+      nanos: 866000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/shereeedmund/Desktop/android-basics-kotlin-lunch-tray-app-main 2/app/build/outputs/androidTest-results/connected/Pixel_5_API_30(AVD) - 11/logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/shereeedmund/Desktop/android-basics-kotlin-lunch-tray-app-main 2/app/build/outputs/androidTest-results/connected/Pixel_5_API_30(AVD) - 11/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/shereeedmund/Desktop/android-basics-kotlin-lunch-tray-app-main 2/app/build/outputs/androidTest-results/connected/Pixel_5_API_30(AVD) - 11/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/shereeedmund/Desktop/android-basics-kotlin-lunch-tray-app-main 2/app/build/outputs/androidTest-results/connected/Pixel_5_API_30(AVD) - 11/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "entree_menu_item_content"
+    start_time {
+      seconds: 1648527530
+      nanos: 420000000
+    }
+    end_time {
+      seconds: 1648527530
+      nanos: 707000000
+    }
+  }
+  test_status: FAILED
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/shereeedmund/Desktop/android-basics-kotlin-lunch-tray-app-main 2/app/build/outputs/androidTest-results/connected/Pixel_5_API_30(AVD) - 11/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
+issue {
+  namespace {
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  severity: SEVERE
+  code: 1
+  name: "INSTRUMENTATION_FAILED"
+  message: "Test run failed to complete. Expected 22 tests, received 1"
+}
